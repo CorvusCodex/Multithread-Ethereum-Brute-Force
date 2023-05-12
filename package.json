@@ -1,0 +1,17 @@
+{
+  "name": "ethereum-bruteforce-by-corvuscodex",
+  "version": "1.4.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CorvusCodex",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "crypto": "^1.0.1",
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "^6.3.0"
+  }
+}
