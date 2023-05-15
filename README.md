@@ -1,5 +1,5 @@
 # Multithread Ethereum Bruteforce
-Ethereum Bruteforce Node.js script that uses the cluster module to create multiple worker processes to generate random Ethereum keypairs and check if the public address corresponding to the private key is in a Set of addresses read from data.txt. If a match is found, private key and address will be saved inside match.txt
+Ethereum Bruteforce Node.js script that uses the cluster module to create multiple worker processes to generate random Ethereum keypairs and check if the public address corresponding to the private key is in a Set of full addresses from data.txt. If a match is found, private key and address will be saved inside match.txt
 
 ## Installation
 
