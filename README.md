@@ -10,10 +10,11 @@ Ethereum Bruteforce Node.js script that uses the cluster module to create multip
 
 ## Usage
 
-1. Create a file named data.txt in the same directory as the script and add the Ethereum addresses you want to search for, one per line.
+1. Edit file data.txt in the same directory as the script and add the Ethereum addresses you want to search for, one per line start with 0x. (Like 3 exmples included)
 2. Run node index.js to start the script.
 3. The script will display the loop count and keys generated per minute for each worker process.
-4. If a match is found, the script will save the wallet and its private key (seed) to a file named match.txt and exit.
+4. The Script look for a FULL address from data.txt
+5. If a match is found, the script will save the wallet and its private key (seed) to a file named match.txt and exit.
 
 ## Dependencies
 This script uses the following dependencies:
