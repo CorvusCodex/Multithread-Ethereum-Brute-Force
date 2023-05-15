@@ -30,7 +30,8 @@ data.toString().split("\n").forEach(address => {
     if (address.startsWith('0x')) {
         addresses.add(address);
     } else {
-        console.error('Error: addresses are not in correct format');
+        console.error('Error: addresses are not in correct format. Addresses must start with 0x');
+        process.exit(1);
     }
 });
 
