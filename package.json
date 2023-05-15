@@ -1,5 +1,5 @@
 {
-  "name": "ethereum-bruteforce-by-corvuscodex",
+  "name": "multithread-ethereum-bruteforce-by-corvuscodex",
   "version": "1.4.0",
   "description": "",
   "main": "app.js",
