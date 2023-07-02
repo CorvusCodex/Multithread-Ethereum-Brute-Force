@@ -8,6 +8,11 @@ Ethereum Bruteforce Node.js script that uses the cluster module to create multip
 3. Open a terminal or command prompt and navigate to the directory where the script is located.
 4. Run npm install to install the required dependencies.
 
+## For people without technical experience you can buy the compiled application for windows from here:
+[https://www.buymeacoffee.com/CorvusCodex/e/142988](https://www.buymeacoffee.com/CorvusCodex/e/147806?from_page=home)
+
+Keep in mind that a Windows app won’t speed up searching or guarantee success.
+
 ## Usage
 
 1. Edit file data.txt in the same directory as the script and add the Ethereum addresses you want to search for, one per line start with 0x. (Like 3 exmples included)
