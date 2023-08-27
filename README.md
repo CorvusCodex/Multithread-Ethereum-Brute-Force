@@ -15,7 +15,7 @@ Keep in mind that a Windows app won’t speed up searching or guarantee success.
 
 ## Usage
 
-1. Edit file data.txt in the same directory as the script and add the Ethereum addresses you want to search for, one per line start with 0x. (Like 3 exmples included)
+1. Edit file data.txt in the same directory as the script and add the Ethereum addresses you want to search for, one per line start with 0x. (Like 3 exmples included). Make sure there is nothing(new line,spaces, etc...) after last address.
 2. Run node app.js to start the script.
 3. The script will display the loop count and keys generated per minute for each worker process.
 4. The Script look for a FULL address from data.txt
