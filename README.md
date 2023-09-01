@@ -17,9 +17,10 @@ Keep in mind that a Windows app won’t speed up searching or guarantee success.
 
 1. Edit file data.txt in the same directory as the script and add the Ethereum addresses you want to search for, one per line start with 0x. (Like 3 exmples included). Make sure there is nothing(new line,spaces, etc...) after last address.
 2. Run node app.js to start the script.
-3. The script will display the loop count and keys generated per minute for each worker process.
-4. The Script look for a FULL address from data.txt
-5. If a match is found, the script will save the wallet and its private key (seed) to a file named match.txt and exit.
+3. Chose display version, default is 1
+4. The script will display the loop count and keys generated per minute for each worker process.
+5. The Script look for a FULL address from data.txt
+6. If a match is found, the script will save the wallet and its private key (seed) to a file named match.txt and exit.
 
 ## Dependencies
 This script uses the following dependencies:
