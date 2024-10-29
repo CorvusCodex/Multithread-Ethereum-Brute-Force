@@ -7,7 +7,8 @@ Ethereum Bruteforce Node.js script that uses the cluster module to create multip
 
 
 ## For people without technical experience you can buy the compiled application for windows from here:
-[https://www.buymeacoffee.com/CorvusCodex/e/142988](https://www.buymeacoffee.com/CorvusCodex/e/147806?from_page=home)
+
+https://ko-fi.com/s/dc3b55f226
 
 ## Installation
 
