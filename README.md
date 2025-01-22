@@ -26,7 +26,7 @@ Keep in mind that a Windows app won’t speed up searching or guarantee success.
 Donate: <br>
 >SOL: FsX3CsTFkRjzne2KiD8gjw3PEW2bYqezKfydAP55BVj7<br>
 >BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3 <br>
->ETH & BNB: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0
+>ETH / BNB / POL: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0
 
 ## Usage
 
