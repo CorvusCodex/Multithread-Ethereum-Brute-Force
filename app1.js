@@ -11,7 +11,7 @@ process.title = "Multithread Ethereum Bruteforce by Corvus Codex";
 //ETH & BNB: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0
 //Buy me a coffee: https://www.buymeacoffee.com/CorvusCodex
 
-// Importing required modules
+
 const fs = require('fs');
 const cluster = require('cluster');
 const numCPUs = require('os').cpus().length;
